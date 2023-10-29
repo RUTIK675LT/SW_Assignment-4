@@ -5,9 +5,10 @@
 3) Install dependencies:  
    Open the terminal    
    npm install nodemon -D  
+   npm install cors --save
    npm install express  
    npm install socket.io 
 5) Start the application:  
    npm run start
 6) Access the application:  
-   Open the application on localhost:5500
+   Open index.html using 2 different browsers
